@@ -1,0 +1,6 @@
+streamlit==1.30.0
+pandas==2.1.4
+rdkit==2023.09.1
+pillow==10.1.0
+numpy==1.26.2
+sqlite3
